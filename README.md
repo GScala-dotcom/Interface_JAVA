@@ -15,13 +15,13 @@ and more...
 
 ## This application intention is to presents my knowledge level and abilities on interfaces creation.
 
-# Funcionallity:
+# Functionality:
 
 + Studying
 + Abilities for resumé
 + Portfolio
 
-# For conttacting me:
+# For contacting me:
 
 + Phone: +55 15 99674-6517
 + Mail: glscalabrini@gmail.com
